@@ -314,7 +314,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/edif.jpg") top center;
+    background: url("../img/miami.jpg") top center;
     background-size: cover;
     position: relative;
   }
@@ -453,7 +453,7 @@ body {
   .services {
     width: 100%;
     height: 150vh;
-    background: url("../img/cta-bg.jpg") top center;
+    background: url("../img/fisher.jpg") top center;
     background-size: cover;
     position: relative;
   }
